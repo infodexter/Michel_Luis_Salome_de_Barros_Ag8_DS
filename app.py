@@ -6,7 +6,7 @@ print("========================================")
 excelente = 0
 ruim = 0
 
-for entrevistado in range(1, 11):
+for entrevistado in range(1, 51):
 
     print(f"\n--- Entrevistado {entrevistado} ---")
 
