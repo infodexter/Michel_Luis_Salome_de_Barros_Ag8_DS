@@ -1,0 +1,115 @@
+Python 3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+================== RESTART: C:/Users/michelsb/Documents/app.py =================
+========================================
+       PESQUISA DE SATISFAÇÃO
+             TudoWeb
+========================================
+
+--- Entrevistado 1 ---
+Nome: Lula
+Idade: 77
+
+Opinião sobre o atendimento:
+1 - EXCELENTE
+2 - BOM
+3 - RUIM
+Digite sua opção: 3
+
+--- Entrevistado 2 ---
+Nome: Flavio
+Idade: 45
+
+Opinião sobre o atendimento:
+1 - EXCELENTE
+2 - BOM
+3 - RUIM
+Digite sua opção: 2
+
+--- Entrevistado 3 ---
+Nome: Caiado
+Idade: 68
+
+Opinião sobre o atendimento:
+1 - EXCELENTE
+2 - BOM
+3 - RUIM
+Digite sua opção: 1
+
+--- Entrevistado 4 ---
+Nome: Renan
+Idade: 42
+
+Opinião sobre o atendimento:
+1 - EXCELENTE
+2 - BOM
+3 - RUIM
+Digite sua opção: 2
+
+--- Entrevistado 5 ---
+Nome: Cury
+Idade: 66
+
+Opinião sobre o atendimento:
+1 - EXCELENTE
+2 - BOM
+3 - RUIM
+Digite sua opção: 2
+
+--- Entrevistado 6 ---
+Nome: Zema
+Idade: 54
+
+Opinião sobre o atendimento:
+1 - EXCELENTE
+2 - BOM
+3 - RUIM
+Digite sua opção: 1
+
+--- Entrevistado 7 ---
+Nome: Samara
+Idade: 34
+
+Opinião sobre o atendimento:
+1 - EXCELENTE
+2 - BOM
+3 - RUIM
+Digite sua opção: 3
+
+--- Entrevistado 8 ---
+Nome: Galvão
+Idade: 81
+
+Opinião sobre o atendimento:
+1 - EXCELENTE
+2 - BOM
+3 - RUIM
+Digite sua opção: 2
+
+--- Entrevistado 9 ---
+Nome: Jordan
+Idade: 55
+
+Opinião sobre o atendimento:
+1 - EXCELENTE
+2 - BOM
+3 - RUIM
+Digite sua opção: 1
+
+--- Entrevistado 10 ---
+Nome: Carlos
+Idade: 43
+
+Opinião sobre o atendimento:
+1 - EXCELENTE
+2 - BOM
+3 - RUIM
+Digite sua opção: 2
+
+========================================
+       RESULTADO DA PESQUISA
+========================================
+Quantidade de respostas EXCELENTE: 3
+Quantidade de respostas RUIM: 2
+========================================
